@@ -22,6 +22,6 @@ Contributions are welcome! If you'd like to contribute, contact me.
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
 - Email: abdulrehmanadeem14@gmail.com
-- LinkedIn: [Abdul Rehman Nadee](https://www.linkedin.com/in/python-django-ml-flutter-developer/)
+- LinkedIn: [Abdul Rehman Nadeem](https://www.linkedin.com/in/python-django-ml-flutter-developer/)
 
 </div>
