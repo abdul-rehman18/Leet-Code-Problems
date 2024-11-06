@@ -15,13 +15,13 @@ To run the code for each problem, follow these steps:
 
 ## Contribution Guidelines
 
-Contributions are welcome! If you'd like to contribute, contact me.
+Contributions are welcome! If you'd like to contribute, please feel free contact me.
 
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
 - Email: abdulrehmanadeem14@gmail.com
-- LinkedIn: [Abdul Rehman Nadeem](https://www.linkedin.com/in/python-django-ml-flutter-developer/)
+- LinkedIn: [Abdul Rehman Nadeem](https://www.linkedin.com/in/python-ml-developer/)
 
 </div>
