@@ -5,6 +5,7 @@
 ## About
 
 Welcome to my LeetCode solutions repository! Here, you'll find my solutions to various LeetCode problems. Whether you're a fellow coder looking for insights or a curious learner exploring different approaches, I hope you find this repository helpful.
+These problems are solved in Python and using different approaches.
 
 ## Usage
 
