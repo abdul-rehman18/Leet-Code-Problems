@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>LeetCode Solutions</h1>
+  <h1>LeetCode Solutions- Python</h1>
 </div>
 
 ## About
